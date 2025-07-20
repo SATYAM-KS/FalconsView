@@ -12,7 +12,7 @@
 [![OpenRouter AI](https://img.shields.io/badge/OpenRouter_AI-Powered-green.svg)](https://openrouter.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 Live Demo](https://falconsview.netlify.app/) 
+[Live Demo](https://falconsview.netlify.app/) 
 
 </div>
 
