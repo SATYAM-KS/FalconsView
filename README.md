@@ -12,7 +12,7 @@
 [![OpenRouter AI](https://img.shields.io/badge/OpenRouter_AI-Powered-green.svg)](https://openrouter.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 Live Demo](https://your-demo-link.com) • [📖 Documentation](./docs) • [🐛 Report Bug](https://github.com/yourusername/ai-interview-analysis/issues) • [💡 Request Feature](https://github.com/yourusername/ai-interview-analysis/issues)
+[🚀 Live Demo](https://falconsview.netlify.app/) 
 
 </div>
 
@@ -114,11 +114,6 @@ Get specific, actionable recommendations for improvement:
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
-![Technology Stack](./docs/images/tech-stack.png)
-
-</div>
 
 ### Frontend
 - **⚛️ React 18** - Modern React with hooks and functional components
