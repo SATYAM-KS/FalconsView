@@ -67,11 +67,6 @@ Transform interview preparation from guesswork to data-driven improvement throug
 
 ## 🚀 How It Works
 
-<div align="center">
-
-![How It Works](./docs/images/how-it-works-flow.png)
-
-</div>
 
 ### 1. 📁 Upload Your Recording
 Upload your interview recording in any supported format (MP3, MP4, WAV, MOV, etc.)
